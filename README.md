@@ -69,7 +69,7 @@ WHERE is_active = TRUE;
 ```
 
 ### **4.Run the Python CLI Application**
-Make sure you have psycopg2 installed:
+Make sure you have `psycopg2` installed:
 ```
 pip install psycopg2
 ```
